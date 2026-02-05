@@ -7,8 +7,9 @@ programa en python para convertir grados celcius en fahrenheit y kelvin
 - °c = Grados celcius
 
 ### Procesamiento
-- °F = grados fahrenheit
-- °K = grados kelvin
+°F = grados fahrenheit
+
+°K = grados kelvin
 
 - °F = (°C x 9/5) + 32
 - °K = °C + 273.15
@@ -17,4 +18,4 @@ programa en python para convertir grados celcius en fahrenheit y kelvin
 ![alt text](diagrama.png)
 
 ## Construcción
-- codigo implementado en convertor_de_temperatura
+- codigo implementado en el archivo convertor_de_temperatura.py
